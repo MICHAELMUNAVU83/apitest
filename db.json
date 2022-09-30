@@ -1,5 +1,5 @@
 {
-  "events": [
+  
     {
       "name": "mikey",
       "image": "http://res.cloudinary.com/dakiak4mc/image/upload/v1664463832/d5j57s2oysotin8abvj5.jpg",
@@ -30,5 +30,5 @@
       "image": "http://res.cloudinary.com/dakiak4mc/image/upload/v1664521206/llkbnecyuevtdsrck49t.jpg",
       "id": 6
     }
-  ]
+ 
 }
